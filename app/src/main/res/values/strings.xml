@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Exchange rates</string>
+    <string name="popular">Popular</string>
+    <string name="favorites">Favorites</string>
+    <string name="sort">Sort</string>
+    <string name="toggle_favorite_description">Toggle favorite</string>
+    <string name="name_ascending_btn">Name Ascending</string>
+    <string name="name_descending_btn">Name descending</string>
+    <string name="rate_ascending_btn">Rate ascending</string>
+    <string name="rate_descending_btn">Rate Descending</string>
+</resources>
